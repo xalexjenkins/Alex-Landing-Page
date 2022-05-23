@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+}
+
+.headerlinks {
+    display: flex;
+}
+
+.header, .bodyone {
+    background-color: #1f2937;
+    color: #F9FAF8;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+ul {
+    list-style: none;
+}
