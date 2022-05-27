@@ -1,9 +1,21 @@
+
 .header {
     display: flex;
+    
+}
+
+.bodyone, .bodytwo, .bodythree {
+    height: 200px;
 }
 
 .headerlinks {
     display: flex;
+    margin-left: auto;
+    padding-right: 200px;
+}
+
+.logo {
+    padding-left: 200px;
 }
 
 .header, .bodyone {
@@ -19,4 +31,11 @@ a {
 
 ul {
     list-style: none;
+    display: inline-flex;
+    gap: 9px;
+}
+
+.headerlinks, .logo { 
+    display: flex;
+    align-items: center;
 }
