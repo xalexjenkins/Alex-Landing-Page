@@ -1,6 +1,9 @@
 
 .header {
     display: flex;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 }
 
@@ -32,7 +35,7 @@ a {
 ul {
     list-style: none;
     display: inline-flex;
-    gap: 9px;
+    gap: 50px;
 }
 
 .headerlinks, .logo { 
@@ -43,10 +46,18 @@ ul {
 .bodyone {
     display: flex;
     justify-content: center;
+    gap: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 75px;
+    padding-bottom: 50px;
 }
 
 .oneright {
     display: flex;
-    width: 300px;
 
+}
+
+img {
+    width: 300px;
 }
