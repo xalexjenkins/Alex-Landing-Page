@@ -47,8 +47,8 @@ ul {
     display: flex;
     justify-content: center;
     gap: 100px;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
     padding-top: 75px;
     padding-bottom: 50px;
 }
@@ -59,11 +59,14 @@ ul {
 
 .oneright {
     display: flex;
+    width: 400px;
 
 }
 
 img {
-    width: 400px;
+    
+    width: 100%;
+    height: 100%;
 }
 
 .lefttitle{
@@ -101,6 +104,7 @@ img {
     display: flex;
     height: 150px;
     width: 150px;
-    border-style: inset;
-    border-color: grey;
+    border-style: solid;
+    border-color: rgb(3, 7, 239);
+    border-radius: 8px;
  
