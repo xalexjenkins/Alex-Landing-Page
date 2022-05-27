@@ -39,3 +39,14 @@ ul {
     display: flex;
     align-items: center;
 }
+
+.bodyone {
+    display: flex;
+    justify-content: center;
+}
+
+.oneright {
+    display: flex;
+    width: 300px;
+
+}
