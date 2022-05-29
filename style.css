@@ -161,3 +161,46 @@ img {
     align-items: flex-end;
     width: 1000px;
 }
+
+.bodyfour {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.action {
+    display: flex;
+    background-color: #3882f6;
+    width: 700px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    gap: 60px;
+    padding: 30px;
+    border-radius: 12px;
+
+}
+
+.actionleft {
+    display:flex;
+    flex-direction: column;
+}
+
+.fourtitle{
+    font-size: 28px;
+    font-weight: bold;
+    color: #e5e7eb;
+}
+
+.fourtext{
+    color: #e5e7eb;
+    font-weight: lighter;
+}
+
+.actionbutton{
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border-radius: 8px;
+    height: 30px;
+    width: 60px;
+    align-self: center;
+}
