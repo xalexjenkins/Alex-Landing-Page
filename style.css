@@ -161,3 +161,13 @@ img {
     align-items: flex-end;
     width: 1000px;
 }
+
+.bodyfour{
+    display: flex;
+    justify-content: center;
+    background-color: #3882f6;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
