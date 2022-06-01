@@ -162,16 +162,6 @@ img {
     width: 1000px;
 }
 
-<<<<<<< HEAD
-.bodyfour{
-    display: flex;
-    justify-content: center;
-    background-color: #3882f6;
-    margin-top: 75px;
-    margin-bottom: 75px;
-    margin-left: 100px;
-    margin-right: 100px;
-=======
 .bodyfour {
   display: flex;
   justify-content: center;
@@ -223,5 +213,4 @@ img {
     align-items: center;
     color: #f9faf8;
    
->>>>>>> refs/remotes/origin/main
 }
