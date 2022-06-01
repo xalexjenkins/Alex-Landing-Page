@@ -197,12 +197,17 @@ img {
 }
 
 .actionbutton{
+    display: flex;
     background-color: #3882f6;
     color: #e5e7eb;
     border-radius: 8px;
     height: 30px;
     width: 60px;
     align-self: center;
+    align-items: center;
+    justify-content: center;
+    border-color: white;
+    width: 80px;
 }
 
 .footer {
